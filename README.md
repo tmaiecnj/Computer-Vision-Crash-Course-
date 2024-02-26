@@ -1,11 +1,11 @@
 
-#**👀 Computer Vision Crash Course 👀**
+# **👀 Computer Vision Crash Course 👀**
 ---
 ## **😕 - Introduction**
 
 ### What is Computer Vision?
 
-### Why is it important?
+Computer vision is a field of artificial intelligence (AI) that uses machine learning and neural networks to teach computers and systems to derive meaningful information from digital images, videos and other visual inputs—and to make recommendations or take actions when they see defects or issues. [IBM | What is Computer Vision](https://www.ibm.com/topics/computer-vision)
 
 ## **😎 - Course Overview**
 
@@ -17,5 +17,3 @@ h1 {
     padding:50px;
     }
 </style>
-
-git config --global user.name "Your Name"
